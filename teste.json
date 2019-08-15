@@ -1,21 +1,23 @@
- {
+{
 	"Segmentos": [
 	{
-		"sigla" : "EF1";
-		"nome" : "Ensino Fundamental 1";
+		"sigla" : "EF1",
+		"nome" : "Ensino Fundamental 1",
 		"apps" : [
 			"Lightbot",
 			"Forma Palavra"
 		]
-	]
+	
 	},{
 
-	"sigla" : "EF2";
-		"nome" : "Ensino Fundamental 2";
+	"sigla" : "EF2",
+		"nome" : "Ensino Fundamental 2",
 		"apps" : [
 			"Folha Impressa",
 			"Linguakit"
-	}
+	]
+}
+]
 }
 
 
