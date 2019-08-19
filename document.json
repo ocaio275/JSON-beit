@@ -6,7 +6,7 @@
 		"apps" : [
 			"Lightbot",
 			"Forma Palavra"
-		]
+			 ]
 	
 	},{
 
@@ -15,7 +15,13 @@
 		"apps" : [
 			"Folha Impressa",
 			"Linguakit"
-	]
-}
+			 ]
+},{
+	"sigla": "EM",
+		"nome" : "Ensino Médio",
+		"apps" : [
+			"C Quimica"
+			 ]
+}			 
 ]
 }
