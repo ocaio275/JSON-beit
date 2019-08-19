@@ -91,8 +91,33 @@
 		"sigla" : "EF1",
 		"nome" : "Ensino Fundamental 1",
 		"apps" : [
-			"Lightbot",
-			"Forma Palavra"
+			"ALPHABET WRITINING",
+			"Geography Quiz",
+			"PHONICS - SPELLERS & SIGHT WORDS",
+			"KIDS A-Z (RAZKIDS)",
+			"HELLO ENGLISH",
+			"Heróis matemáticas",
+			"Kids Numbers and Math",
+			"MATH BINGO",
+			"MATH DUEL",
+			"Math Tester",
+			"POPMATH LITE",
+			"REI DA MATEMÁTICA",
+			"TABUADA 2",
+			"FORMA PALAVRAS",
+			"Explora o Mundo",
+			"Geografia Mundial",
+			"10monkeys Multiplication",
+			"MATIFIC",
+			"Verbos Portugues",
+			"Lightbot : Code Hour"
+			"AMAZON KINDLE",
+			"Google Arts & Culture",
+			"Perguntas Culturais",
+			"GOOGLE EARTH",
+			"Folha Impressa",
+			"Zinio",
+			"Linguakit"
 			 ]
 	
 	},{
@@ -100,14 +125,58 @@
 	"sigla" : "EF2",
 		"nome" : "Ensino Fundamental 2",
 		"apps" : [
-			"Folha Impressa",
-			"Linguakit"
+			"PaperDraw: desenhar, Sketchbook",
+			"HUMAN BIO DIGITAL",
+			"Anatomy Learning - 3D Atlas",
+			"Bodyzq Heart",
+			"Celulas",
+			"Corpo Humano",
+			"Calc de Física",
+			"Física",
+			"Física Interativa",
+			"Explora o Mundo",
+			"Geografia Mundial",
+			"Termos Geográficos",
+			"10monkeys Multiplication",
+			"Algebra Tutor",
+			"Funções",
+			"Mais Matemática",
+			"Matemática - Math Game",
+			"MATIFIC",
+			"Truques Matemáticos",
+			"Verbos Portugues",
+			"Tabela Periódica - EducaLabs",
+			"Lightbot : Code Hour"
 			 ]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
 		"apps" : [
-			"C Quimica"
+			"HUMAN BIO DIGITAL",
+			"Anatomy Learning - 3D Atlas",
+			"Bodyzq Heart",
+			"Celulas",
+			"Corpo Humano",
+			"Calc de Física",
+			"Física",
+			"Física Interativa",
+			"AMAZON KINDLE",
+			"Google Arts & Culture",
+			"Perguntas Culturais",
+			"GOOGLE EARTH",
+			"Termos Geográficos",
+			"Algebra Tutor",
+			"Funções",
+			"Mais Matemática",
+			"Matemática - Math Game",
+			"Truques Matemáticos",
+			"Folha Impressa",
+			"Zinio",
+			"Linguakit",
+			"Átomos, Elementos e Moléculas",
+			"C Química",
+			"Resumão de Química",
+			"Tabela Periódica - EducaLabs"",
 			 ]
 }			 
 ]
