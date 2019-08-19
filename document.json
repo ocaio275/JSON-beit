@@ -86,7 +86,8 @@
 			"ABC TRACE",
 			"ABCTRACE"
 		
-		]
+		],
+		"desc" : ["teste"]
 	},{
 		"sigla" : "EF1",
 		"nome" : "Ensino Fundamental 1",
