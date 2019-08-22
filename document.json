@@ -119,7 +119,8 @@
 			"Folha Impressa",
 			"Zinio",
 			"Linguakit"
-			 ]
+			 ],
+		"desc" : ["teste"]
 	
 	},{
 
@@ -148,7 +149,8 @@
 			"Verbos Portugues",
 			"Tabela Periódica - EducaLabs",
 			"Lightbot : Code Hour"
-			 ]
+			 ],
+		"desc" : ["teste"]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
@@ -178,7 +180,8 @@
 			"C Química",
 			"Resumão de Química",
 			"Tabela Periódica - EducaLabs"
-			 ]
+			 ],
+		"desc" : ["teste"]
 }			 
 ]
 }
