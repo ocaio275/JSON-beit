@@ -87,7 +87,7 @@
 			"ABCTRACE"
 		
 		],
-		"desc" : ["teste"]
+		"desc" : ["teste IN"]
 	},{
 		"sigla" : "EF1",
 		"nome" : "Ensino Fundamental 1",
@@ -150,7 +150,7 @@
 			"Tabela Periódica - EducaLabs",
 			"Lightbot : Code Hour"
 			 ],
-		"desc" : ["teste"]
+		"desc" : ["teste EF1"]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
