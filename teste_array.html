@@ -33,7 +33,10 @@
 	<p>Descrição do App</p>
 	<br>
 
-	<textarea class="form-control" rows=12 id="teste"></textarea>
+	<textarea class="form-control" rows=12 id="teste" readonly="readonly"></textarea>
+	<br>
+	<center><a id="link" href=""><img id="Imagem" src=""></a></center>
+<br>
 </div>
 </div>
 
@@ -47,6 +50,7 @@
 	var idDs = '';
 	var rt = '';
 	var des = '';
+	var im = '';
 	$(document).ready(function(){
 		carregar_json('Segmento');
 		function carregar_json(id, id_apps,desc_id){
@@ -55,7 +59,7 @@
 			
 			
 
-			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/lista_apps.json', function(data){
+			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/document.json', function(data){
 				html += '<option>Selecionar '+ id +'</option>';
 				console.log(data);
 				if(id == 'Segmento' && id_apps == null){
@@ -88,7 +92,7 @@
 			var cbo = document.getElementById("App");
 			rt = cbo.selectedIndex - 1;
 
-			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/lista_apps.json', function(dat){
+			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/document.json', function(dat){
 				htmldesc += '<option>Selecionar '+ idd +'</option>';
 
 				
@@ -101,6 +105,8 @@
 								
 							}
 							des = dat.segmentos[i].desc[rt];
+							im = "https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw=s180-rw";
+
 						}
 				}
 				
@@ -141,6 +147,8 @@
 		var cbo = document.getElementById("App");
 		rt = cbo.selectedIndex;
 		document.getElementById("teste").innerHTML= des;
+		document.getElementById("Imagem").src = im;
+		document.getElementById("link").href = "https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=pt_BR";
 	};
 
 
