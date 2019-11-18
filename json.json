@@ -1,0 +1,40 @@
+{
+	"segmentos": [
+	{
+		"sigla" : "IN",
+		"nome"  : "Infantil",
+		"site"  : [ 
+			
+		],
+		"desc" : [
+				 
+				 ]
+	},{
+		"sigla" : "EF1",
+		"nome" : "Ensino Fundamental 1",
+		"site" : [
+			
+			     ],
+		"desc" : [
+
+				 ]
+				},{
+
+		"sigla" : "EF2",
+		"nome" : "Ensino Fundamental 2",
+		"site" : [
+					
+			     ],
+		"desc" : [
+
+		         ]
+},{
+	"sigla": "EM",
+		"nome" : "Ensino Médio",
+		"site" : [
+			
+			 ],
+		"desc" : []
+}			 
+]
+}
