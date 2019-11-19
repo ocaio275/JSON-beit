@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script
+ src="https://code.jquery.com/jquery-3.2.1.js"
+ integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+ crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+
+
+<div class="container">
+<div class="col-sm-6">
+	<h1>Lista de Site</h1>
+	<select class="form-control" id="Segmento">
+		<option>Selecionar Segmento</option>
+	</select>
+	<br>
+	<select class="form-control" id="App">
+		<option>Selecionar Site</option>
+	</select>
+	<br>
+	<select class ="form-control" id="Desc" style="display: none;">
+		<option>Descrição</option>
+	</select>
+	<button id="btnInfo" type="button" class="btn btn-primary btn-lg btn-block">Procurar descrição</button>
+	<br>
+	<a href="" id="btnn" style="text-decoration:none"><button id="btnSite" type="button" class="btn btn-secondary btn-lg btn-block" >Link do site</button></a>
+	<br>
+	<h3>Descrição do Site</h3>
+	<br>
+<button type="button" class="btn btn-primary btn-lg">Large button</button>
+<button type="button" class="btn btn-secondary btn-lg">Large button</button>
+	<textarea class="form-control" rows=12 id="teste" readonly="readonly"></textarea>
+<br>
+</div>
+</div>
+
+</body>
+</html>
+
+
+
+<script>
+	var idap = '';
+	var idDs = '';
+	var rt = '';
+	var des = '';
+	var im = '';
+	var lin = '';
+	$(document).ready(function(){
+		carregar_json('Segmento');
+		function carregar_json(id, id_apps,desc_id){
+			var html = '';
+			
+			
+			
+
+			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/site.json', function(data){
+				html += '<option>Selecionar '+ id +'</option>';
+				console.log(data);
+				if(id == 'Segmento' && id_apps == null){
+					for(var i = 0; i < data.segmentos.length; i++){
+						html += '<option value='+ data.segmentos[i].sigla +'>'+ data.segmentos[i].nome+'</option>';
+						
+					}
+				}else{
+					for(var i = 0; i < data.segmentos.length; i++){
+						if(data.segmentos[i].sigla == id_apps){
+							for(var j = 0; j < data.segmentos[i].site.length; j++){
+								var n = '';
+								html += '<option value=' + data.segmentos[i].sigla + '>' + data.segmentos[i].site[j]+ '</option>';
+								
+							}
+							
+						}
+					}
+				}
+
+				$('#'+id).html(html);				
+			});
+			
+		}
+		carregar_json_desc('Desc');
+		function carregar_json_desc(idd, id_desc,desc_idd){
+			var htmldesc = '';
+			
+			
+			var cbo = document.getElementById("App");
+			rt = cbo.selectedIndex - 1;
+
+			$.getJSON('https://raw.githubusercontent.com/ocaio275/JSON-beit/master/site.json', function(dat){
+				htmldesc += '<option>Selecionar '+ idd +'</option>';
+
+				
+				console.log(dat);
+					for(var i = 0; i < dat.segmentos.length; i++){
+						if(dat.segmentos[i].sigla == id_desc){
+							for(var j = 0; j < dat.segmentos[i].site[i].length; j++){
+								var n = '';
+								htmldesc += '<option value='+ j +'>'+dat.segmentos[i].desc[j]+ '</option>';
+								
+							}
+							des = dat.segmentos[i].desc[rt];
+							lin = dat.segmentos[i].link[rt];
+						}
+				}
+				
+				
+				$('#'+idd).html(htmldesc);				
+			});
+			
+		}
+		
+
+		
+
+		$(document).on('change', '#Segmento',function(){
+			var id_apps = $(this).val();
+			console.log(id_apps);
+			if(id_apps != null){
+				carregar_json('App', id_apps);
+				idap = id_apps;
+			}
+			
+		});
+
+		$(document).on('change','#App',function(){
+			var id_desc = $(this).val();
+			console.log(id_desc);
+			if(id_desc != null){
+				carregar_json_desc('Desc', id_desc);
+				idDs = id_desc;
+			}
+		});
+
+
+		
+		
+	});
+
+	document.getElementById("btnInfo").onclick = function(){
+		var cbo = document.getElementById("App");
+		rt = cbo.selectedIndex;
+		document.getElementById("teste").innerHTML= des;
+	};
+	document.getElementById("btnSite").onclick = function(){
+		var cbo = document.getElementById("App");
+		rt = cbo.selectedIndex;
+		document.getElementById("btnn").href= lin;
+	};
+
+
+</script>s
+
+
