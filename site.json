@@ -1,0 +1,106 @@
+
+{	"segmentos": [
+	{
+		"sigla" : "IN",
+		"nome"  : "Infantil",
+		"site"  : [ 
+					"Cookie",
+					"ABCYA.com",
+					"Sketchpad",
+					"StoryBird",
+					"FlipGrid",
+					"ABC Zoo"
+				  ],
+		"desc" : [
+				 "Neste site a criança encontrará divertidos jogos educativos que trabalham com a fonética, matemática, linguagem, estudos sociais, ciências e muito mais. Além disso, existem vídeos educativos que incentivam as crianças a continuar aprendendo, mesmo depois do horário escolar.",
+				 "Site recheado de jogos educativos em inglês.",
+				 "Excelente ferramenta de desenhar e colorir online.",
+				 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
+				 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
+				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world."
+				 ]
+	},{
+		"sigla" : "EF1",
+		"nome" : "Ensino Fundamental 1",
+		"site" : [
+					"Netboard Me",
+					"Mix",
+					"Scrumblr",
+					"Pinside",
+					"Cookie",
+					"ABCYA.com",
+					"Sketchpad",
+					"StoryBird",
+					"FlipGrid",
+					"ABC Zoo"
+			     ],
+		"desc" : [
+					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
+					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content.",
+					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
+					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
+					"Neste site a criança encontrará divertidos jogos educativos que trabalham com a fonética, matemática, linguagem, estudos sociais, ciências e muito mais. Além disso, existem vídeos educativos que incentivam as crianças a continuar aprendendo, mesmo depois do horário escolar.",
+				 "Site recheado de jogos educativos em inglês.",
+				 "Excelente ferramenta de desenhar e colorir online.",
+				 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
+				 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
+				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world."
+				 ]
+				},{
+
+		"sigla" : "EF2",
+		"nome" : "Ensino Fundamental 2",
+		"site" : [
+					"Netboard Me",
+					"Mix",
+					"Scrumblr",
+					"Pinside",
+					"Sketchpad",
+					"MecFlix",
+					"StoryBird",
+					"Sutori",
+					"FlipQuiz",
+					"FlipGrid"
+			     ],
+		"desc" : [
+					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content.",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
+"Excelente ferramenta de desenhar e colorir online.",
+"A plataforma de videoaulas gratuitas e sob demanda do MEC. Desenvolvida para auxiliar seu aprendizado e otimizar seu estudo.",
+"Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
+"Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
+"FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
+Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.
+		         ]
+},{
+	"sigla": "EM",
+		"nome" : "Ensino Médio",
+		"site" : [
+					"Netboard Me",
+					"Mix",
+					"Scrumblr",
+					"Pinside",
+					"Sketchpad",
+					"MecFlix",
+					"StoryBird",
+					"Sutori",
+					"FlipQuiz",
+					"FlipGrid"
+			 ],
+		"desc" : [
+				"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content.",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
+"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
+"Excelente ferramenta de desenhar e colorir online.",
+"A plataforma de videoaulas gratuitas e sob demanda do MEC. Desenvolvida para auxiliar seu aprendizado e otimizar seu estudo.",
+"Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
+"Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
+"FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
+"Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
+		]
+}			 
+]
+}
