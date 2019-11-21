@@ -9,7 +9,12 @@
 					"Sketchpad",
 					"StoryBird",
 					"FlipGrid",
-					"ABC Zoo"
+					"ABC Zoo",
+					"FunBrain",
+					"Games Educativos",
+					"National Gallery",
+					"PBS Kids",
+					"SOS Mata Atlântica"
 				  ],
 		"desc" : [
 				 "Neste site a criança encontrará divertidos jogos educativos que trabalham com a fonética, matemática, linguagem, estudos sociais, ciências e muito mais. Além disso, existem vídeos educativos que incentivam as crianças a continuar aprendendo, mesmo depois do horário escolar.",
@@ -17,7 +22,12 @@
 				 "Excelente ferramenta de desenhar e colorir online.",
 				 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
 				 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
-				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world."
+				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world.",
+				 "Site recheado de jogos educativos em inglês.",
+				 " O site reúne jogos de diversas matérias como Português, Matemática e Geografia. Além de um visual bastante colorido e convidativo, sua navegação é intuitiva e organizada. Kids Go Flash - KidsGoflash é um site educativo em inglês, recheado com materiais interativos de educação infantil.",
+				 "Faça um tour virtual de 18 quartos na National Gallery. Aproxime-se das pinturas: e escolha fullscreen para uma visão ainda melhor.",
+				 " Site em inglês que permite às crianças realizarem atividades com diversos personagens da pbs kids. Nele, é possível acessar vídeos, histórias e jogos diversos.",
+				 "Site dedicado a noticias e artigos que abordam a mata atlântica."
 				 ],
 		"link" : [
 					"http://www.cookie.com/",
@@ -25,7 +35,12 @@
 					"sketchpad.io",
 					"https://storybird.com/",
 					"https://flipgrid.com/",
-					"http://learnenglishkids.britishcouncil.org/short-stories/abc-zoo"
+					"http://learnenglishkids.britishcouncil.org/short-stories/abc-zoo",
+					"http://www.google.com/url?q=http%3A%2F%2Fwww.funbrain.com%2F&sa=D&sntz=1&usg=AFQjCNGVKPztKNv5VaAwhxoD0ck5wRmOGQ",
+					"http://www.gameseducativos.com/",
+					"https://www.nationalgallery.org.uk/visiting/virtual-tours/virtual-tour-2011#/central-hall/",
+					"https://pbskids.org/",
+					"https://www.sosma.org.br/"
 
 				]
 	},{
