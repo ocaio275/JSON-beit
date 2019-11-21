@@ -21,7 +21,12 @@
 				 ],
 		"link" : [
 					"http://www.cookie.com/",
-					"http://www.abcya.com/"
+					"http://www.abcya.com/",
+					"sketchpad.io",
+					"https://storybird.com/",
+					"https://flipgrid.com/",
+					"http://learnenglishkids.britishcouncil.org/short-stories/abc-zoo"
+
 				]
 	},{
 		"sigla" : "EF1",
@@ -49,7 +54,18 @@
 				 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
 				 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
 				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world."
-				 ]
+				 ],
+		"link" : [
+					"http://www.cookie.com/",
+					"http://www.abcya.com/",
+					"sketchpad.io",
+					"https://storybird.com/",
+					"https://www.sutori.com/",
+					"https://flipgrid.com/",
+					"http://learnenglishkids.britishcouncil.org/short-stories/abc-zoo"
+
+
+				]
 				},{
 
 		"sigla" : "EF2",
@@ -77,7 +93,21 @@
 "Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
 "FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
-		         ]
+		         ],
+		"link" : [
+					"https://netboard.me/",
+					"https://mix.com/",
+					"http://scrumblr.ca/",
+					"http://pinsi.de/",
+					"sketchpad.io",
+					"http://mecflix.mec.gov.br/",
+					"https://storybird.com/",
+					"https://www.sutori.com/",
+					"flipquiz.me",
+					"https://flipgrid.com/"
+
+
+		]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
@@ -104,7 +134,18 @@
 "Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
 "FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
+		],
+		"like" : [
+					"http://pinsi.de/",
+					"sketchpad.io",
+					"http://mecflix.mec.gov.br/",
+					"https://storybird.com/",
+					"https://www.sutori.com/",
+					"flipquiz.me",
+					"https://flipgrid.com/"
+
 		]
+
 }			 
 ]
-} 
+}
