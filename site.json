@@ -56,14 +56,16 @@
 				 "LearnEnglish Kids is brought to you by the British Council, the world's English teaching experts. We have lots of free online games, songs, stories and activities for children. For parents, we have articles on supporting children in learning English, videos on using English at home and information about face-to-face courses around the world."
 				 ],
 		"link" : [
+					"https://netboard.me/",
+					"https://mix.com/",
+					"http://scrumblr.ca/", 
+					"http://pinsi.de/",
 					"http://www.cookie.com/",
 					"http://www.abcya.com/",
-					"sketchpad.io",
+					"http://sketchpad.io/",
 					"https://storybird.com/",
-					"https://www.sutori.com/",
 					"https://flipgrid.com/",
 					"http://learnenglishkids.britishcouncil.org/short-stories/abc-zoo"
-
 
 				]
 				},{
@@ -136,12 +138,15 @@
 "Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
 		],
 		"link" : [
+					"https://netboard.me/",
+					"https://mix.com/",
+					"http://scrumblr.ca/",
 					"http://pinsi.de/",
-					"sketchpad.io",
+					"http://sketchpad.io/",
 					"http://mecflix.mec.gov.br/",
 					"https://storybird.com/",
 					"https://www.sutori.com/",
-					"flipquiz.me",
+					"http://flipquiz.me/",
 					"https://flipgrid.com/"
 
 		]
