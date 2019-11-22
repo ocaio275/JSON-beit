@@ -54,7 +54,7 @@
 					"FlipGrid",
 					"ABC Zoo",
 					"Biblioteca Digital Mundial - Diversos",
-					"BBC Wild Life Finder - Ciências",
+					"BBC Wild Life Finder",
 					"Canal Kids - Informática",
 					"Click Árvore - Meio Ambiente",
 					"Exercícios de Matemática",
@@ -140,7 +140,6 @@
 					"https://www.somatematica.com.br/jogos.php",
 					"https://teen.ibge.gov.br/",
 					"http://www.wikiaves.com.br/"
-
 					]	
 				},{
 
@@ -156,7 +155,19 @@
 					"StoryBird",
 					"Sutori",
 					"FlipQuiz",
-					"FlipGrid"
+					"FlipGrid",
+					"BBC Wild Life Finder",
+					"Conjugador de Verbos",
+					"Click Árvore - Meio Ambiente",
+					"Canal Kids - Biologia",
+					"Google Art Project",
+					"IBGE",
+					"Portal Domínio Público",
+					"TeacherTube",
+					"Using English",
+					"Wikiaves",
+					"WikiLivros"
+
 			     ],
 		"desc" : [
 					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
@@ -168,7 +179,18 @@
 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
 "Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
 "FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
-"Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
+"Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
+"A BBC reuniu seu acervo de fotografias e vídeos de animais em um dos mais completos zoológicos virtuais do mundo. Conteúdo em inglês.",
+"Esta base de verbos conjugados da língua portuguesa possui aproximadamente 280.000 registros distintos.",
+"Neste Web site, é possível ajudar a plantar novas mudas na Mata Atlântica ou em algum outro lugar onde haja projeto de reflorestamento. Possui ainda informações sobre cultura florestal e florestas em geral. Participe desse programa de reflorestamento!",
+"Navegue neste site para descobrir muitos dados interessantes sobre os cinco reinos da vida e o fato de que os vírus não são seres vivos.",
+"Ferramenta do Google que permite ao visitante descobrir e admirar com detalhes mais de 1000 obras de arte de alguns dos mais aclamados museus de arte do mundo. Nele é possível: Explorar museus com a tecnologia do Street View: mova-se virtualmente dentro das galerias museus, selecionando obras de arte do seu interesse. Artwork View: descubra características e detalhes das obras com a alta resolução que cada uma delas é apresentada. Expanda o painel de informações para ler a respeito da obra, do artista etc. Criar sua própria coleção: a ferramenta Create an Artwork Collection permite que você salve obras específicas em uma coleção personalizável. Você poderá também colocar comentários em cada uma delas e compartilhar com quem quiser.",
+"Site do IBGE lançou com um mapa-mundi digital que inclui síntese, histórico, indicadores sociais, economia, redes, meio ambiente, entre outras curiosidades, vale a pena conferir!",
+"Este portal constitui-se em um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada, que constituem o patrimônio cultural brasileiro e universal.",
+"Make education fun! TeacherTube is a safe place for kids to create and publish their own videos. They will learn while they are having an amazing time. Stand with the over 1.5 million teachers, students and parents currently using TeacherTube to Teach The World. Create your own channels, collections and even playlists to maximize the education of your students. Who knows, you might be the next TeacherTube sensation!",
+"UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
+"O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
+"O Wikilivros é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais."
 		         ],
 		"link" : [
 					"https://netboard.me/",
@@ -180,7 +202,21 @@
 					"https://storybird.com/",
 					"https://www.sutori.com/",
 					"flipquiz.me",
-					"https://flipgrid.com/"
+					"https://flipgrid.com/",
+					"https://www.bbc.co.uk/programmes/p00bfy8v",
+					"http://linguistica.insite.com.br/mod_perl/conjugue",
+					"https://www.sosma.org.br/projeto/clickarvore/",
+					"https://www.canalkids.com.br/cultura/ciencias/biologia/index.htm",
+					"https://artsandculture.google.com/",
+					"https://paises.ibge.gov.br/#/",
+					"http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp",
+					"https://www.teachertube.com/",
+					"https://www.usingenglish.com/quizzes/196.html",
+					"http://www.wikiaves.com.br/",
+					"https://en.wikibooks.org/wiki/Main_Page"
+
+
+
 
 
 		]
@@ -197,7 +233,17 @@
 					"StoryBird",
 					"Sutori",
 					"FlipQuiz",
-					"FlipGrid"
+					"FlipGrid",
+					"Conjugador de Verbos - Língua Portuguesa",
+					"Click Árvore - Meio Ambiente",
+					"Google Art Project",
+					"IBGE - Países",
+					"Portal Domínio Público",
+					"TeacherTube",
+					"Using English",
+					"Wikiaves - Ciências",
+					"WikiLivros"
+
 			 ],
 		"desc" : [
 				"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos. Free and easy online tool to collect, organize and share any web content",
@@ -209,7 +255,17 @@
 "Ferramenta para criação de histórias digitais criativas. Link para a extensão do Chromebook: https://chrome.google.com/webstore/detail/storybird/khnkljecljfpgcoafnmoaanlhepgbfof?hl=pt-BR",
 "Presentations for the classroom in a unique timeline format. Link para extensão de Chromebook: https://chrome.google.com/webstore/detail/sutori/lmbjgeeoepkkcaoicafcooljcdbadbga?hl=pt-BR",
 "FlipQuiz™ provides educators with a quick way to create your own gameshow-style boards for test reviews in the classroom. Questions are displayed on-screen and boards are saved for later use. Combined with a beautiful board, students are more likely to be interested and stay engaged with the test review process.",
-"Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define."
+"Flipgrid empowers student voice. Students capture short videos to share ideas and experiences with their classmates on the topics you define.",
+"Esta base de verbos conjugados da língua portuguesa possui aproximadamente 280.000 registros distintos.",
+"Neste Web site, é possível ajudar a plantar novas mudas na Mata Atlântica ou em algum outro lugar onde haja projeto de reflorestamento. Possui ainda informações sobre cultura florestal e florestas em geral. Participe desse programa de reflorestamento!.",
+"Ferramenta do Google que permite ao visitante descobrir e admirar com detalhes mais de 1000 obras de arte de alguns dos mais aclamados  museus de arte do mundo. Nele é possível: Explorar museus com a tecnologia do Street View: mova-se virtualmente dentro das galerias museus, selecionando obras de arte do seu interesse. Artwork View: descubra características e detalhes das obras com a alta resolução que cada uma delas é apresentada. Expanda o painel de informações para ler a respeito da obra, do artista etc. Criar sua própria coleção: a ferramenta Create an Artwork Collection permite que você salve obras específicas em uma coleção personalizável. Você poderá também colocar comentários em cada uma delas e compartilhar com quem quiser.",
+" Site do IBGE lançou com um mapa-mundi digital que inclui síntese, histórico, indicadores sociais, economia, redes, meio ambiente, entre outras curiosidades, vale a pena conferir!",
+"Este portal constitui-se em um ambiente virtual que permite a coleta, a integração, a preservação e o compartilhamento de conhecimentos, sendo seu principal objetivo o de promover o amplo acesso às obras literárias, artísticas e científicas (na forma de textos, sons, imagens e vídeos), já em domínio público ou que tenham a sua divulgação devidamente autorizada, que constituem o patrimônio cultural brasileiro e universal.",
+"Make education fun! TeacherTube is a safe place for kids to create and publish their own videos. They will learn while they are having an amazing time. Stand with the over 1.5 million teachers, students and parents currently using TeacherTube to Teach The World. Create your own channels, collections and even playlists to maximize the education of your students. Who knows, you might be the next TeacherTube sensation!",
+"UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
+"O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
+"O Wikilivros (do inglês Wikibooks) é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais."
+
 		],
 		"link" : [
 					"https://netboard.me/",
@@ -221,8 +277,16 @@
 					"https://storybird.com/",
 					"https://www.sutori.com/",
 					"http://flipquiz.me/",
-					"https://flipgrid.com/"
-
+					"https://flipgrid.com/",
+					"http://linguistica.insite.com.br/mod_perl/conjugue",
+					"http://www.clickarvore.com.br/",
+					"https://artsandculture.google.com/",
+					"https://paises.ibge.gov.br/#/",
+					"http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp",
+					"https://www.teachertube.com/",
+					"https://www.usingenglish.com/quizzes/196.html",
+					"http://www.wikiaves.com.br/",
+					"https://en.wikibooks.org/wiki/Main_Page"
 		]
 
 }			 
