@@ -173,7 +173,8 @@
 					"Using English",
 					"Wikiaves",
 					"WikiLivros",
-					"AutoDraw"
+					"AutoDraw",
+					"Stop Motion Studio"
 
 			     ],
 		"desc" : [
@@ -198,7 +199,8 @@
 "UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
 "O Wikilivros é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais.",
-"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."		
+"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida.",
+" O Stop Motion Studio ajuda você a criar ótimos filmes de stop action com toda uma série de recursos exclusivos. Como o editor quadro a quadro, a linha do tempo nunca se perde e o editor de som."			
 		         ],
 		"link" : [
 					"https://netboard.me/",
@@ -222,7 +224,8 @@
 					"https://www.usingenglish.com/quizzes/196.html",
 					"http://www.wikiaves.com.br/",
 					"https://en.wikibooks.org/wiki/Main_Page",
-					"https://www.autodraw.com/"
+					"https://www.autodraw.com/",
+					"https://www.cateater.com/"
 
 
 
@@ -251,7 +254,8 @@
 					"Using English",
 					"Wikiaves - Ciências",
 					"WikiLivros",
-					"AutoDraw"
+					"AutoDraw",
+					"Stop Motion Studio"
 
 			 ],
 		"desc" : [
@@ -274,8 +278,8 @@
 "UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
 "O Wikilivros (do inglês Wikibooks) é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais.",
-"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."
-
+"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida.",
+" O Stop Motion Studio ajuda você a criar ótimos filmes de stop action com toda uma série de recursos exclusivos. Como o editor quadro a quadro, a linha do tempo nunca se perde e o editor de som."		
 		],
 		"link" : [
 					"https://netboard.me/",
@@ -297,7 +301,8 @@
 					"https://www.usingenglish.com/quizzes/196.html",
 					"http://www.wikiaves.com.br/",
 					"https://en.wikibooks.org/wiki/Main_Page",
-					"https://www.autodraw.com/"
+					"https://www.autodraw.com/",
+					"https://www.cateater.com/"
 		]
 
 }			 
