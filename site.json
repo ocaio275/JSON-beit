@@ -13,7 +13,8 @@
 					"FunBrain",
 					"Games Educativos",
 					"National Gallery",
-					"PBS Kids"
+					"PBS Kids",
+					"AutoDraw"
 				  ],
 		"desc" : [
 				 "Neste site a criança encontrará divertidos jogos educativos que trabalham com a fonética, matemática, linguagem, estudos sociais, ciências e muito mais. Além disso, existem vídeos educativos que incentivam as crianças a continuar aprendendo, mesmo depois do horário escolar.",
@@ -25,7 +26,8 @@
 				 "Site recheado de jogos educativos em inglês.",
 				 " O site reúne jogos de diversas matérias como Português, Matemática e Geografia. Além de um visual bastante colorido e convidativo, sua navegação é intuitiva e organizada. Kids Go Flash - KidsGoflash é um site educativo em inglês, recheado com materiais interativos de educação infantil.",
 				 "Faça um tour virtual de 18 quartos na National Gallery. Aproxime-se das pinturas: e escolha fullscreen para uma visão ainda melhor.",
-				 " Site em inglês que permite às crianças realizarem atividades com diversos personagens da pbs kids. Nele, é possível acessar vídeos, histórias e jogos diversos."
+				 " Site em inglês que permite às crianças realizarem atividades com diversos personagens da pbs kids. Nele, é possível acessar vídeos, histórias e jogos diversos.",
+				 "O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."
 				 ],
 		"link" : [
 					"http://www.cookie.com/",
@@ -37,7 +39,8 @@
 					"http://www.google.com/url?q=http%3A%2F%2Fwww.funbrain.com%2F&sa=D&sntz=1&usg=AFQjCNGVKPztKNv5VaAwhxoD0ck5wRmOGQ",
 					"http://www.gameseducativos.com/",
 					"https://www.nationalgallery.org.uk/visiting/virtual-tours/virtual-tour-2011#/central-hall/",
-					"https://pbskids.org/"
+					"https://pbskids.org/",
+					"https://www.autodraw.com/"
 				]
 	},{
 		"sigla" : "EF1",
@@ -73,7 +76,8 @@
 					"Racha Cuca",
 					"Só Matemática",
 					"Teen IBGE",
-					"Wikiaves - Ciências"
+					"Wikiaves - Ciências",
+					"AutoDraw"
 			     ],
 		"desc" : [
 					"Ferramenta gratuita e online para coletar, organizar e compartilhar conteúdos Free and easy online tool to collect, organize and share any web content",
@@ -106,7 +110,8 @@
 				 "Site repleto de jogos educativos de diversas matérias. Alguns dos jogos de matemática exigem que o jogador utilize um pouco de lógica para resolvê-los, sempre de forma divertida.",
 				 "O Só Matemática oferece diversos jogos que permitem ao aluno trabalhar e desenvolver diversas habilidades da área matemática de forma lúdica. O site é uma referência entre jogos matemáticos na internet.",
 				 "Make education fun! TeacherTube is a safe place for kids to create and publish their own videos. They will learn while they are having an amazing time. Stand with the over 1.5 million teachers, students and parents currently using TeacherTube to Teach The World. Create your own channels, collections and even playlists to maximize the education of your students. Who knows, you might be the next TeacherTube sensation!",
-				 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês."
+				 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
+				 "O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."
 				 ],
 		"link" : [
 					"https://netboard.me/",
@@ -140,6 +145,7 @@
 					"https://www.somatematica.com.br/jogos.php",
 					"https://teen.ibge.gov.br/",
 					"http://www.wikiaves.com.br/"
+					"https://www.autodraw.com/"
 					]	
 				},{
 
@@ -166,7 +172,8 @@
 					"TeacherTube",
 					"Using English",
 					"Wikiaves",
-					"WikiLivros"
+					"WikiLivros",
+					"AutoDraw"
 
 			     ],
 		"desc" : [
@@ -190,7 +197,8 @@
 "Make education fun! TeacherTube is a safe place for kids to create and publish their own videos. They will learn while they are having an amazing time. Stand with the over 1.5 million teachers, students and parents currently using TeacherTube to Teach The World. Create your own channels, collections and even playlists to maximize the education of your students. Who knows, you might be the next TeacherTube sensation!",
 "UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
-"O Wikilivros é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais."
+"O Wikilivros é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais.",
+"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."		
 		         ],
 		"link" : [
 					"https://netboard.me/",
@@ -213,8 +221,8 @@
 					"https://www.teachertube.com/",
 					"https://www.usingenglish.com/quizzes/196.html",
 					"http://www.wikiaves.com.br/",
-					"https://en.wikibooks.org/wiki/Main_Page"
-
+					"https://en.wikibooks.org/wiki/Main_Page",
+					"https://www.autodraw.com/"
 
 
 
@@ -242,7 +250,8 @@
 					"TeacherTube",
 					"Using English",
 					"Wikiaves - Ciências",
-					"WikiLivros"
+					"WikiLivros",
+					"AutoDraw"
 
 			 ],
 		"desc" : [
@@ -264,7 +273,8 @@
 "Make education fun! TeacherTube is a safe place for kids to create and publish their own videos. They will learn while they are having an amazing time. Stand with the over 1.5 million teachers, students and parents currently using TeacherTube to Teach The World. Create your own channels, collections and even playlists to maximize the education of your students. Who knows, you might be the next TeacherTube sensation!",
 "UsingEnglish.com provides a large collection of English as a Second Language (ESL) tools & resources for students, teachers, learners and academics. Browse our grammar glossary and references of irregular verbs, phrasal verbs and idioms, ESL forums, articles, teacher handouts and printables, and find useful links and information on English. Topics cover the spectrum of ESL, EFL, ESOL, and EAP subject areas.",
 "O WikiAves foi criado com o objetivo de apoiar a comunidade online de biólogos e observadores de aves do Brasil fornecendo ferramentas interativas que permitam promover a busca pelo conhecimento, a comunicação entre usuários, a divulgação de informações sobre as aves brasileiras com foco na preservação e a formação colaborativa do maior banco de dados sobre aves do Brasil na Internet. Versões em português e inglês.",
-"O Wikilivros (do inglês Wikibooks) é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais."
+"O Wikilivros (do inglês Wikibooks) é um projeto da Wikimedia Foundation dedicado ao desenvolvimento colaborativo (wiki) de livros, apostilas, manuais e outros textos didáticos de conteúdo livre — licenciados sob a Creative Commons Attribution/Share-Alike License 3.0 (CC-by-SA 3.0) e a GNU Free Documentation License. Todos os interessados podem participar lendo ou melhorando um dos módulos presentes nos wikilivros ou produzindo novos materiais.",
+"O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida."
 
 		],
 		"link" : [
@@ -286,7 +296,8 @@
 					"https://www.teachertube.com/",
 					"https://www.usingenglish.com/quizzes/196.html",
 					"http://www.wikiaves.com.br/",
-					"https://en.wikibooks.org/wiki/Main_Page"
+					"https://en.wikibooks.org/wiki/Main_Page",
+					"https://www.autodraw.com/"
 		]
 
 }			 
