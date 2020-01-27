@@ -9,11 +9,9 @@
 			"BRAIN POP",
 			"BRAIN POP JUNIOR",
 			"Youtube Kids",
-			"MATCHES!",
-			"ZOOLA MATCH",
 			"PEPI BATH LITE",
 			"PEPI DOCTOR",
-			"BINGO KINDERGARTEN",
+			"BINGO for Kids",
 			"ABCS KIDS VOCABULARY WRITE DNP",
 			"ARCA DE NOÉ",
 			"MONTESSORI CROSSWORDS",
@@ -41,8 +39,6 @@
 			"QUIZ",
 			"QUIZ",
 			"App do Youtube que centraliza as buscas de conteúdo em canais infantis",
-			"JOGO DA MEMORIA",
-			"JOGO DA MEMORIA",
 			"HIGIENE PESSOAL",
 			"HIGIENE, SAUDE",
 			"NUMERAIS, ALFABETO, FORMAS",
@@ -68,8 +64,24 @@
 		],
 		"image" : [
 			"https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw=s180-rw",
-			"https://lh3.googleusercontent.com/JtyCmcoFupn47ooPGC-z2KlhICbSRH-ZNmwpaKlxHZTc9zEPvoioNvEtZ0QQhVNCaww=s180-rw"	
-			]
+			"https://lh3.googleusercontent.com/JtyCmcoFupn47ooPGC-z2KlhICbSRH-ZNmwpaKlxHZTc9zEPvoioNvEtZ0QQhVNCaww=s180-rw",
+			"https://lh3.googleusercontent.com/tNnAM8gSx_vlNHfdFTcb_l63vJeyBVdqIClJrbDMfD9Wf4xluG4FwUnrHY4qCUWUQQA=s180-rw",
+			"https://lh3.googleusercontent.com/f3svhs0Unwz2TxJOcZFRztvz-lKnFD21HnP9jwdifhMt-UwGGx-f_eSxAs7vzxjx72E=s180-rw",
+			"https://lh3.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc=s180-rw",
+			"https://lh3.googleusercontent.com/9UNA0JZlYrQbagCIp2dq9HTq4muATBHBmtKNakSBJHQidmQ8DJqLaoaMBsBzBNKiIYU=s180-rw",
+			"https://lh3.googleusercontent.com/rIYDDpJ3Qfm-1YUzrnFq_zkxlFXToTjK2U7gxXQ9yiELrXzQznr7viSM-l2phHstEJs=s180-rw",
+			"https://lh3.googleusercontent.com/mIwrVEdBxg5zAAt8DdunV-_kb4U60Q42oVaK_gGkdUwjVYmyOr4PCF_etvj6HHW3Gg=s180-rw"	
+			],
+		"link" : [
+			"https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=pt_BR",
+			"https://play.google.com/store/apps/details?id=com.movile.playkids.stories&hl=pt_BR",
+			"https://play.google.com/store/apps/details?id=com.brainpop.brainpopfeaturedmovieandroid",
+			"https://play.google.com/store/apps/details?id=com.brainpop.brainpopjuniorandroid",
+			"https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids&hl=pt_BR",
+			"https://play.google.com/store/apps/details?id=air.com.pepiplay.pepibathliteandroid",
+			"https://play.google.com/store/apps/details?id=air.com.pepiplay.pepidoctor",
+			"https://play.google.com/store/apps/details?id=com.kevinbradford.games.bingo&hl=en_US"
+		]	
 	},{
 		"sigla" : "EF1",
 		"nome" : "Ensino Fundamental 1",
