@@ -12,12 +12,9 @@
 			"PEPI BATH LITE",
 			"PEPI DOCTOR",
 			"BINGO for Kids",
-			"ABCS KIDS VOCABULARY WRITE DNP",
-			"ARCA DE NOÉ",
+			"ABCs Kids Preschool Letter Writing DNP",
 			"MONTESSORI CROSSWORDS",
-			"DORA RHYME",
-			"5 FROGS",
-			"DOWN BY THE BAY",
+			"Dora ABCs Vol 2: Rhyming",
 			"DR. SEUSS - HOP ON POP",
 			"DR. SEUSS - I CAN READ",
 			"OLD LADY",
@@ -45,9 +42,6 @@
 			"CURSIVA, NÚMERO, FORMAS",
 			"QUIZ, QUEBRA CABEÇA",
 			"PALAVRAS CRUZADAS, DITADO",
-			"RIMAS, SONS INICIAIS",
-			"RIMAS",
-			"RIMAS",
 			"RIMAS",
 			"RIMAS",
 			"RIMAS",
@@ -70,8 +64,13 @@
 			"https://lh3.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc=s180-rw",
 			"https://lh3.googleusercontent.com/9UNA0JZlYrQbagCIp2dq9HTq4muATBHBmtKNakSBJHQidmQ8DJqLaoaMBsBzBNKiIYU=s180-rw",
 			"https://lh3.googleusercontent.com/rIYDDpJ3Qfm-1YUzrnFq_zkxlFXToTjK2U7gxXQ9yiELrXzQznr7viSM-l2phHstEJs=s180-rw",
-			"https://lh3.googleusercontent.com/mIwrVEdBxg5zAAt8DdunV-_kb4U60Q42oVaK_gGkdUwjVYmyOr4PCF_etvj6HHW3Gg=s180-rw"	
-			],
+			"https://lh3.googleusercontent.com/mIwrVEdBxg5zAAt8DdunV-_kb4U60Q42oVaK_gGkdUwjVYmyOr4PCF_etvj6HHW3Gg=s180-rw",	
+			"https://static-s.aa-cdn.net/img/ios/1045283969/b5e303d224cdcd4c7e8366917d39a24b?v=1",
+			"https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c1/b9/92/c1b9928c-4874-e19e-a633-2de679328a5d/AppIcon-EN-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/246x0w.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/712Eduy1BsL.png",
+			"https://images-na.ssl-images-amazon.com/images/I/71en26l1s2L.png",
+			"https://images-na.ssl-images-amazon.com/images/I/71T0alnPUpL.png"
+		],
 		"link" : [
 			"https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=pt_BR",
 			"https://play.google.com/store/apps/details?id=com.movile.playkids.stories&hl=pt_BR",
@@ -80,7 +79,12 @@
 			"https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids&hl=pt_BR",
 			"https://play.google.com/store/apps/details?id=air.com.pepiplay.pepibathliteandroid",
 			"https://play.google.com/store/apps/details?id=air.com.pepiplay.pepidoctor",
-			"https://play.google.com/store/apps/details?id=com.kevinbradford.games.bingo&hl=en_US"
+			"https://play.google.com/store/apps/details?id=com.kevinbradford.games.bingo&hl=en_US",
+			"https://apps.apple.com/jp/app/abcs-kids-preschool-letter-writing-dnp-learn-to-trace/id1045283969?l=en",
+			"https://apps.apple.com/us/app/montessori-crosswords-for-kids/id384334005",
+			"https://apps.apple.com/us/app/dora-abcs-vol-2-rhyming/id422607930",
+			"https://apps.apple.com/us/app/hop-on-pop-by-dr-seuss/id1092652588",
+			"https://apps.apple.com/br/app/dr-seuss-treasury-kids-books/id909110675"
 		]	
 	},{
 		"sigla" : "EF1",
