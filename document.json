@@ -79,19 +79,15 @@
 			"PaperDraw: desenhar, Sketchbook",
 			"PlayKids Stories",
 			"Google Arts & Culture",
-			"Perguntas Culturais",
 			"Youtube Kids",
 			"Explora o Mundo",
 			"Geografia Mundial",
 			"Geography Quiz",
 			"HELLO ENGLISH",
-			"10monkeys Multiplication",
 			"Heróis matemáticas",
 			"Kids Numbers and Math",
 			"MATH DUEL",
-			"Math Tester",
 			"Folha Impressa",
-			"Zinio",
 			"Alphabet Writing",
 			"Busuu",
 			"Linguakit",
@@ -101,7 +97,6 @@
 		"desc" : ["PaperDraw é uma excelente aplicação de pintura que está imitando o pincel de verdade para desenhar.A ferramenta tem diferentes estilos de pincéis e cores. A biblioteca te ajudará a criar o desenho perfeito é um excelente aplicativo para desenhar em smartphones ou tablets.",
 				  "PlayKids Stories é uma biblioteca digital incrível para crianças de até 8 anos de idade. São milhares de histórias que irão despertar o prazer da leitura em seus pequenos: clássicos da literatura infantil, lançamentos e personagens favoritos da criançada. https://play.google.com/store/apps/details?id=com.movile.playkids.stories&rdid=com.movile.playkids.stories",
 				  "Keep exploring with Google Arts & Culture. Meet the people, visit the places and learn about the events that shaped our world. Discover collections curated by experts from the most famous museums. Be moved by stories depicted in thousands of photos, videos, manuscripts and artworks on every type of screen and in virtual reality. Find your favorite artworks, create your own collections and share them with friends.",
-				  "App de perguntas sobre questões da atualidade",
 				  "App do Youtube que centraliza as buscas de conteúdo em canais infantis",
 				  "App que mostra superficialmente alguns dos principais pontos turísticos do planeta, como as pirâmides, etc",
 				  "Quiz de perguntas sobre mapas",
@@ -111,15 +106,48 @@
 				  "Neste jogo você está em uma nave espacial, tentando escapar de meteoros, UFOs, estrangeiros e planetas. Ao mesmo tempo, você tem que atirar nas soluções que aparecem no topo das tarefas do campo verde. Existem 8 níveis de classes no jogo https://play.google.com/store/apps/details?id=air.MusterenGames.MathSpace&hl=pt_BR",
 				  "Ajude os alunos a aprenderem os números e adquirirem capacidades de domínio aritmético básico. As crianças vão aprender a: ✔ Dar nome aos números ✔ Contar ✔ Comparar números ✔ Somar ✔ Subtrair ✔ Corresponder números https://play.google.com/store/apps/details?id=zok.android.numbers",
 				  "Jogo de duelo em operações matemáticas para dois usuários simultâneos",
-				  "Excelente jogo para testar os conhecimentos das operações matemáticas",
 				  "A senha do aplicativo depende da bibliotecária",
-				  "Aplicativo para ler revistas. Login com Bibiotecária",
 				  "Auxilia o aluno na escrita de letras cursivas e de forma",
 				  "Auxilia no aprendizado do português",
 				  "Auxilia na conjugação dos verbos",
 				  "Banco de dados de verbo com o auxilio de leitura em audio",
-				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR"]
-	
+				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR"
+				],
+				"image" : [
+					"https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw=s180-rw",
+					"https://lh3.googleusercontent.com/JtyCmcoFupn47ooPGC-z2KlhICbSRH-ZNmwpaKlxHZTc9zEPvoioNvEtZ0QQhVNCaww=s180-rw",
+					"https://lh3.googleusercontent.com/0yIxsU6mBbX1aXXWw9kmv3xu_rduwb1HO3byPuawf2Uophei8s7Xgxu4FdjOc_Bi488=s180-rw",
+					"https://lh3.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc=s180-rw",
+					"https://lh3.googleusercontent.com/2GXX8gsi1GNzq_AGscBLkTGuk1h9TvvhqCywSeM2mbrHrRAkIO4qYGVmF3W-Xkj1hQg=s180-rw",
+					"https://lh3.googleusercontent.com/SpBA4r7PR4dgsJzGrSLI8E8DoK8sSwLlhTxEaL3_vywKPytejn4zVAo33TmL573Ju2Qc=s180-rw",
+					"https://lh3.googleusercontent.com/YguX8W7qIVu2MUgDVQ1wmVavOWASdrXswfFo-QGC63igMynV--2xYUgqSzhfehhlGuE=s180-rw",
+					"https://lh3.googleusercontent.com/q1p3HlNMddDsBRGMYpHIUTbL8jxuleP6aMZf8FS8iwGbCoori2eMMMqlpMHyWKGrAaY=s180-rw",
+					"https://lh3.googleusercontent.com/G4NYVNi_V7OHVweYGq6-Ip-t5XZYkDfZXy7aBU3XL43gmoqK9zmxvuBYbxoKIYBEx8U=s180-rw",
+					"https://lh3.googleusercontent.com/R8rTBGpUy8SC4VHPDc6to1XRB5ccugumd2EurP2VGJzjzBFcjGwRRFjiGBJ_bOJU7fA=s180-rw",
+					"https://lh3.googleusercontent.com/Mlon0Ofcgv4hwPDlxKVkyuBlJbMj7i_8ETMExdi5CxQTuEkXCJqxxpBXvOl6nF_HZSvz=s180-rw",
+					"https://lh3.googleusercontent.com/x8lMf1Gr1HrYQNxa1D-bpiUj2IA6Ep_e3XCRLpK91_VVJ2Ts30gnWDdJgNRXLREfFTQ=s180-rw",
+					"https://lh3.googleusercontent.com/epmG9flWiRGuy5bVru3eoAD_-VgTNe3fG6fL7GSZP8iuCtAVQz8L3WL17HSS8Y-6Z90=s180-rw",
+					"https://lh3.googleusercontent.com/oFIcGzrbMJyIOL-c_4ZvP18x5vdbsv5tE33NwFkqucjQUvvAXrUelKRQSNedf8zzbw=s180-rw",
+					"https://lh3.googleusercontent.com/XBcPcmpJnFycl2R3OHbiqqDcCFLi431E45jFGTYPjoJkibCPRe4YgAZ01ZkRNhSNWA=s180-rw"
+
+				],
+				"link" : [
+					"https://play.google.com/store/apps/details?id=com.eyewind.paperone&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.movile.playkids.stories&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.google.android.apps.cultural&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=it.clementoni.mappamondo&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.age.wgg.appspot&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=mdquizgames.geography.quiz&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.CultureAlley.japanese.english&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=air.MusterenGames.MathSpace&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=zok.android.numbers&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=br.com.folha.acervo&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.aprenderJugando.alfabeto&hl=en",
+					"https://play.google.com/store/apps/details?id=com.busuu.android.enc&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.cilenis.linguakitandroid&hl=pt_BR"
+				]
 	},{
 
 	"sigla" : "EF2",
@@ -175,7 +203,14 @@
 				  "Auxilia na conjugação dos verbos",
 				  "Banco de dados de verbo com o auxilio de leitura em audio",
 				  "https://play.google.com/store/apps/details?id=air.com.panapps.PeriodicTable Excelente aplicativo de tabela periódica para tablets",
-				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR"]
+				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR"
+				],
+				"image" : [
+					""
+				],
+				"link" : [
+					""
+				]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
@@ -225,7 +260,14 @@
 			"Átomos, Elementos e Moléculas",
 			"Praticar óxidos",
 			"Química geral e Físico Química",
-			"https://play.google.com/store/apps/details?id=air.com.panapps.PeriodicTable Excelente aplicativo de tabela periódica para tablets"]
+			"https://play.google.com/store/apps/details?id=air.com.panapps.PeriodicTable Excelente aplicativo de tabela periódica para tablets"
+		],
+		"image" : [
+			""
+		],
+		"link" : [
+			""
+		]
 }			 
 ]
 }
