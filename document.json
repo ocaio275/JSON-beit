@@ -92,7 +92,9 @@
 			"Busuu",
 			"Linguakit",
 			"Verbos Portugues",
-			"Lightbot : Code Hour"
+			"Lightbot : Code Hour",
+			"Stop",
+			"Letroca"
 			 ],
 		"desc" : ["PaperDraw é uma excelente aplicação de pintura que está imitando o pincel de verdade para desenhar.A ferramenta tem diferentes estilos de pincéis e cores. A biblioteca te ajudará a criar o desenho perfeito é um excelente aplicativo para desenhar em smartphones ou tablets.",
 				  "PlayKids Stories é uma biblioteca digital incrível para crianças de até 8 anos de idade. São milhares de histórias que irão despertar o prazer da leitura em seus pequenos: clássicos da literatura infantil, lançamentos e personagens favoritos da criançada. https://play.google.com/store/apps/details?id=com.movile.playkids.stories&rdid=com.movile.playkids.stories",
@@ -110,7 +112,9 @@
 				  "Auxilia no aprendizado do português",
 				  "Auxilia na conjugação dos verbos",
 				  "Banco de dados de verbo com o auxilio de leitura em audio",
-				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR"
+				  "Get kids programming in the most fun way: by solving puzzles in a videogame! Lightbot - Code Hour is meant to introduce kids who have no experience whatsoever programming, and is all-ages friendly! That means anyone anywhere from K to 12 can play, have fun and learn real programming logic! Lightbot is a programming puzzle game; it uses game mechanics that are firmly rooted in programming concepts. Lightbot lets players gain a practical understanding of basic concepts like instruction sequencing, procedures and loops, just by guiding a robot to light up tiles and solve levels. https://play.google.com/store/apps/details?id=com.lightbot.lightbothoc&hl=pt_BR",
+				  "O objetivo é encontrar palavras com a letra sorteada em cada uma das categorias antes do tempo terminar.",
+				  "Jogo de palavras que oferece uma excelente forma de reforçar o vocabulário. No Letroca, o aluno deve combinar as letras disponíveis para formar o maior número de palavras possível. Quanto mais palavras formar, mais pontos serão creditados."
 				],
 				"image" : [
 					"https://lh3.googleusercontent.com/zk1SVbWvnYrH1al59YwDidCP97a2oeyKKi-csCxHhI-S7Wl-dohsGBnQh8J1OGsLvYw=s180-rw",
@@ -127,7 +131,9 @@
 					"https://lh3.googleusercontent.com/x8lMf1Gr1HrYQNxa1D-bpiUj2IA6Ep_e3XCRLpK91_VVJ2Ts30gnWDdJgNRXLREfFTQ=s180-rw",
 					"https://lh3.googleusercontent.com/epmG9flWiRGuy5bVru3eoAD_-VgTNe3fG6fL7GSZP8iuCtAVQz8L3WL17HSS8Y-6Z90=s180-rw",
 					"https://lh3.googleusercontent.com/oFIcGzrbMJyIOL-c_4ZvP18x5vdbsv5tE33NwFkqucjQUvvAXrUelKRQSNedf8zzbw=s180-rw",
-					"https://lh3.googleusercontent.com/XBcPcmpJnFycl2R3OHbiqqDcCFLi431E45jFGTYPjoJkibCPRe4YgAZ01ZkRNhSNWA=s180-rw"
+					"https://lh3.googleusercontent.com/XBcPcmpJnFycl2R3OHbiqqDcCFLi431E45jFGTYPjoJkibCPRe4YgAZ01ZkRNhSNWA=s180-rw",
+					"https://lh3.googleusercontent.com/r8WSFkaSG4sCdsxdIWpaqOkOMC2MefGfi969xr_TO7nJmV4n1muyjkBnH4Sphx197420=s180-rw",
+					"https://lh3.googleusercontent.com/5uPh34s8X0qc0jNhFGCRuQ8BNsYXoYbSJfxCLOxK9kBZE4mHJdhyQ5-7JhWWaigygdY=s180-rw"
 
 				],
 				"link" : [
@@ -145,7 +151,9 @@
 					"https://play.google.com/store/apps/details?id=br.com.folha.acervo&hl=pt_BR",
 					"https://play.google.com/store/apps/details?id=com.aprenderJugando.alfabeto&hl=en",
 					"https://play.google.com/store/apps/details?id=com.busuu.android.enc&hl=pt_BR",
-					"https://play.google.com/store/apps/details?id=com.cilenis.linguakitandroid&hl=pt_BR"
+					"https://play.google.com/store/apps/details?id=com.cilenis.linguakitandroid&hl=pt_BR",
+					"https://play.google.com/store/apps/details?id=com.fanatee.stop",
+					"https://play.google.com/store/apps/details?id=air.com.fanatee.letroca"
 				]
 	},{
 
