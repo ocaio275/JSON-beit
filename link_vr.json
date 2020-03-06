@@ -1,0 +1,74 @@
+{
+	"segmentos": [
+	{
+		"sigla" : "IN",
+		"nome"  : "Infantil",
+		"video"  : [ 
+			
+		
+		],
+		"desc" : [
+			
+		],
+		"image" : [
+			
+		],
+		"link" : [
+			
+		]	
+	},{
+		"sigla" : "EF1",
+		"nome" : "Ensino Fundamental 1",
+		"video" : [
+			"Water Cycle | 360° or VR video | First video in world wide",
+			"water cycle VR",
+			"Water Cycle",
+			"The Water Cycle | The Dr. Binocs Show | Learn Videos For Kids",
+			"Water Cycle Song",
+			"The Water Cycle | Educational Video for Kids",
+			"The Water Cycle"
+			 ],
+		"desc" : [
+				],
+		"link" : [
+					"https://www.youtube.com/embed/p57lovvY1hk",
+					"https://www.youtube.com/embed/p57lovvY1hk",
+					"https://www.youtube.com/embed/KMB57FWYnKA",
+					"https://www.youtube.com/embed/ncORPosDrjI",
+					"https://www.youtube.com/embed/TWb4KlM2vts",
+					"https://www.youtube.com/embed/y5gFI3pMvoI",
+					"https://www.youtube.com/embed/al-do-HGuIk"
+				]
+	},{
+
+	"sigla" : "EF2",
+		"nome" : "Ensino Fundamental 2",
+		"video" : [
+				
+			 ],
+		"desc" : [],
+				"image" : [
+					
+					
+				],
+				"link" : [
+					
+				]
+},{
+	"sigla": "EM",
+		"nome" : "Ensino Médio",
+		"video" : [
+		
+			 ],
+		"desc" : [
+			
+		],
+		"image" : [
+			
+		],
+		"link" : [
+			
+		]
+}			 
+]
+}
