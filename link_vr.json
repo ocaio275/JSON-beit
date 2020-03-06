@@ -4,17 +4,14 @@
 		"sigla" : "IN",
 		"nome"  : "Infantil",
 		"video"  : [ 
-			
+			""
 		
 		],
 		"desc" : [
-			
-		],
-		"image" : [
-			
+			""
 		],
 		"link" : [
-			
+			""
 		]	
 	},{
 		"sigla" : "EF1",
@@ -44,30 +41,23 @@
 	"sigla" : "EF2",
 		"nome" : "Ensino Fundamental 2",
 		"video" : [
-				
+				""
 			 ],
-		"desc" : [],
-				"image" : [
-					
-					
-				],
+		"desc" : [""],
 				"link" : [
-					
+					""
 				]
 },{
 	"sigla": "EM",
 		"nome" : "Ensino Médio",
 		"video" : [
-		
+		""
 			 ],
-		"desc" : [
-			
-		],
 		"image" : [
-			
+			""
 		],
 		"link" : [
-			
+			""
 		]
 }			 
 ]
