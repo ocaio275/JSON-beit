@@ -118,6 +118,7 @@
 				 "O AutoDraw é um novo tipo de ferramenta de desenho que combina a magia do aprendizado de máquina com desenhos de artistas talentosos para ajudar todos a criar qualquer coisa visual e rápida.",
 				 "A Sporcle é a fornecedora líder de entretenimento de curiosidades na Web, em dispositivos móveis e em shows ao vivo. O Sporcle.com tem quase um milhão de questionários gerados por usuários sobre todos os tópicos imagináveis ​​que foram reproduzidos mais de três bilhões de vezes . O Sporcle também possui um conjunto de aplicativos triviais para dispositivos iOS e Android.",
 				 "O Quizizz é uma ferramenta digital online gratuita que possibilita a criação de questionários dinâmicos com a proposta de ensino gamificado. A proposta é adoção de um formato que condiz com as demandas educacionais atuais, que dialoga com anseios dos estudantes nativos digitais. Este recurso pode ser útil em diversas metodologias de ensino, como na Sala de Aula Invertida, Peer Instruction (Aprendizagem por Pares), TBL – Team Based Learning, dentre outras.",
+				 "Possibilita a produção de palavras cruzadas.",
 				 "Possibilita a produção de palavras cruzadas."
 				 ],
 		"link" : [
@@ -155,7 +156,8 @@
 					"https://www.autodraw.com/",
 					"https://www.sporcle.com/",
 					"https://quizizz.com/admin",
-					"https://www.educolorir.com/crosswordgenerator.php"
+					"https://www.educolorir.com/crosswordgenerator.php",
+					"https://crosswordlabs.com/"
 					]	
 				},{
 
