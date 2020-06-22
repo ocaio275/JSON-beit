@@ -1,0 +1,26 @@
+{
+    "turma":[{
+        "sigla":"EM",
+        "classe":"1ºA",
+        "RA":[
+            "01",
+            "02",
+            "03"
+        ],
+        "alunos":[
+            "Caio Santos",
+            "Daniel Santos",
+            "Rafael Nascimento"
+        ],
+        "horario":[
+            "08h30 20/06/2020",
+            "08h22 20/06/2020",
+            "08h46 20/06/2020"
+        ],
+        "materia":[
+            "Math HL",
+            "Chemistry CB",
+            "Geo CB"
+        ]
+    }]
+}
